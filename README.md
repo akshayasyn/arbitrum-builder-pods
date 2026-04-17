@@ -1,3 +1,4 @@
+
 # Arbitrum Builder Pods Assignment
 
 A polished educational Web3 mini-site builder collaboration platform built with React, TypeScript, Vite, and Tailwind. 
@@ -28,7 +29,14 @@ It serves as an interactive learning lab for understanding blockchain concepts a
 
 ## Screenshots
 
-- `screenshots/home.jpg`
-- `screenshots/concepts.jpg`
-- `screenshots/prices.jpg`
-- `screenshots/simulator.jpg`
+### Home
+![Home](screenshots/home.jpg)
+
+### Concepts
+![Concepts](screenshots/concepts.jpg)
+
+### Prices
+![Prices](screenshots/prices.jpg)
+
+### Simulator
+![Simulator](screenshots/simulator.jpg)
